@@ -1,4 +1,4 @@
-# Python Interview Preparation
+# Python DSA Preparation
 
 This repository contains:
 - Python coding interview practice
@@ -15,4 +15,4 @@ This repository contains:
 - Graphs
 
 ## Goal
-Refreshing problem-solving skills for Senior AI Engineer interviews.
+Refreshing problem-solving skills for AI Architect.
