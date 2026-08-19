@@ -6,8 +6,6 @@ class Solution:
 
     Time Complexity: O(n)
     Space Complexity: O(n)
-
-
 """
     def isSameTree(self, p:Optional[TreeNode], q:Optional[TreeNode]) -> bool:
 

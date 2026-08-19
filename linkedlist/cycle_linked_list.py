@@ -1,3 +1,5 @@
+from typing import Optional
+
 class Solution:
     def hasCycle(self, head:Optional[ListNode]) -> Optional[ListNode]:
         slow, fast = head, head
